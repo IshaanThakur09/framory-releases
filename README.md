@@ -18,10 +18,10 @@ For a new installation, tap the connection message or open the sidebar and choos
 
 ## Updates
 
-From version 1.5.0, both apps check for updates at startup and have a **Check for updates** button in the sidebar. Windows offers to download and restart. Android downloads the update and asks you to approve installation; it may first ask you to allow installations from Framory.
+Both apps check for updates at startup and have a **Check for updates** button in the sidebar. Windows offers to download and restart. Android downloads the update and asks you to approve installation; it may first ask you to allow installations from Framory.
 
 Updates use signed metadata and SHA-256 download verification. The Android app also verifies the APK's package and signing certificate. Chats and model data are retained.
 
-Versions older than 1.5.0 need one manual installation of the latest download to enable the updater.
+Existing builds without an updater need one manual installation of the latest download to enable it.
 
 This repository distributes compiled applications and release metadata. Application source code is not published here.
